@@ -1,0 +1,22 @@
+h1 {
+  font-size: 14px;
+}
+.input_area {
+  padding-bottom: 10px;
+  border-bottom: 2px solid #ccc;
+}
+input {
+  border-radius: 5px;
+  padding: 6px 16px;
+  outline: none;
+  margin-right: 10px;
+}
+button {
+  border-radius: 5px;
+  border: none;
+  padding: 4px 16px;
+}
+.content {
+  padding: 10px;
+  background: #ffffe6;
+}
